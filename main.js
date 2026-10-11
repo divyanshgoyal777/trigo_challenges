@@ -1,4 +1,5 @@
-const sketch = require("./sketch");
+// const sketch = require("./sketch");
+const sketch = require("./circle_points")
 
 function loop() {
     while (sketch.running()) {
