@@ -1,6 +1,7 @@
 // const sketch = require("./sketch");
 // const sketch = require("./circle_points")
-const sketch = require("./Polygon");
+// const sketch = require("./polygon");
+const sketch = require("./waves");
 
 function loop() {
     while (sketch.running()) {
